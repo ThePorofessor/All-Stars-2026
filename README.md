@@ -99,7 +99,7 @@ In the case of both players ending on the same segment, there are a few tiebreak
 | Name | Overall Rank | How To Watch |
 |:---:|---|---|
 | <p align="center">ZogaOak</p> | <p align="center"> 1 </p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> |
-| <p align="center">QP_Marcel</p> | <p align="center"> 2 Seeds </p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> |
+| <p align="center">QP_Marcel</p> | <p align="center"> 2 </p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> |
 | <p align="center">Mason_smw</p> | <p align="center"> 3 </p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> |
 | <p align="center">UceyChimchar</p> | <p align="center"> 4 </p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> |
 | <p align="center">Reilnur</p> | <p align="center"> 5 </p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> |
@@ -130,24 +130,24 @@ In the case of both players ending on the same segment, there are a few tiebreak
 
 | Player (Team 1) | Personal Best | Remaining Seeds | Typing | Remaining Seeds | Personal Best | Player (Team 2)
 |:---:|---|---|---|---|---|---|
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Bug ![Bug](Resources/Bug.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Dark ![Dark](Resources/Dark.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Dragon ![Dragon](Resources/Dragon.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Electric ![Electric](Resources/Electric.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Fairy ![Fairy](Resources/Fairy.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Fighting ![Fighting](Resources/Fighting.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Fire ![Fire](Resources/Fire.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Flying ![Flying](Resources/Flying.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Ghost ![Ghost](Resources/Ghost.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Grass ![Grass](Resources/Grass.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Ground ![Ground](Resources/Ground.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Ice ![Ice](Resources/Ice.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Normal ![Normal](Resources/Normal.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Poison ![Poison](Resources/Poison.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Psychic ![Psychic](Resources/Psychic.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Rock ![Rock](Resources/Rock.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Steel ![Steel](Resources/Steel.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
-| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> Water ![Water](Resources/Water.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Bug](Resources/Bug.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Dark](Resources/Dark.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Dragon](Resources/Dragon.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Electric](Resources/Electric.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Fairy](Resources/Fairy.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Fighting](Resources/Fighting.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Fire](Resources/Fire.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Flying](Resources/Flying.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Ghost](Resources/Ghost.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Grass](Resources/Grass.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Ground](Resources/Ground.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Ice](Resources/Ice.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Normal](Resources/Normal.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Poison](Resources/Poison.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Psychic](Resources/Psychic.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Rock](Resources/Rock.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Steel](Resources/Steel.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
+| TBA | <p align="center">Lab</p> | <p align="center"> 30 Seeds </p> | <p align="center"> ![Water](Resources/Water.png) </p> | <p align="center"> 30 Seeds </p> | <p align="center">Lab</p> | TBA |
 
 
 
