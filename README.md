@@ -26,7 +26,7 @@ If you want to make things interesting, feel free to use any combination of the 
   
 | Boon | Description | Availability | Types |
 |:---:|---|---|
-| **Anti-Social** | The top 10% of community universal votes are banned unless they win the popular vote | 1st Place | All Types |
+| **Anti-Social** | The top 10% of community universal votes are banned unless they win the popular vote | All Types |
 | **Dictator** | The leader decides all communal universal picks | All Types |
 | **Double Trouble** | All favorite picks must contain dual typing | ![Bug](Resources/Bug.png) ![Dark](Resources/Dark.png) ![Dragon](Resources/Dragon.png) ![Fairy](Resources/Fairy.png) ![Ghost](Resources/Ghost.png) ![Grass](Resources/Grass.png) ![Ground](Resources/Ground.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Rock](Resources/Rock.png) ![Steel](Resources/Steel.png) ![Water](Resources/Water.png) |
 | **Draft with Phonics** | Drafts must be picked in alphabetical order | All Types |
