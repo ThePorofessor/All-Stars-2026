@@ -24,7 +24,7 @@ If you want to make things interesting, feel free to use any combination of the 
 <details>
 <summary><strong>List of Optional Champion Boons</strong></summary>
   
-| Boon | Description | Availability | Types |
+| Boon | Description | Types |
 |:---:|---|---|
 | **Anti-Social** | The top 10% of community universal votes are banned unless they win the popular vote | All Types |
 | **Dictator** | The leader decides all communal universal picks | All Types |
