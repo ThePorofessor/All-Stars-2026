@@ -122,7 +122,7 @@ In the case of both players ending on the same segment, there are a few tiebreak
 | Reilnur | | Porofessor |
 | Aitchkay | | iAmSlammer |
 | Yukisaka | | AmazingSpam |
-| Community Vote #1 | | Community Vote #2 |
+| Community Vote #2 | | Community Vote #1 |
 
 ---
 
