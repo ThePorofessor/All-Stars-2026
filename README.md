@@ -34,7 +34,7 @@ If you want to make things interesting, feel free to use any combination of the 
 | **Foster Care** | If a favorite is in the abandoned balls, you must take them | All Types |
 | **Insufficient Funds** | Ookemon with BST > 399 are banned from drafting | All Types |
 | **Late Bloomers** | Pokemon that would evo in the forest are banned from drafting | ![Bug](Resources/Bug.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fire](Resources/Fire.png) ![Flying](Resources/Flying.png) ![Grass](Resources/Grass.png) ![Normal](Resources/Normal.png) ![Poison](Resources/Poison.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
-| **Monoculture** | All dual tpying Pokemon are banned from drafting | ![Dragon](Resources/Dragon.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Fire](Resources/Fire.png) ![Grass](Resources/Grass.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
+| **Monoculture** | All dual typing Pokemon are banned from drafting | ![Dragon](Resources/Dragon.png) ![Electric](Resources/Electric.png) ![Fairy](Resources/Fairy.png) ![Fighting](Resources/Fighting.png) ![Fire](Resources/Fire.png) ![Grass](Resources/Grass.png) ![Ice](Resources/Ice.png) ![Normal](Resources/Normal.png) ![Psychic](Resources/Psychic.png) ![Water](Resources/Water.png) |
 | **Weekly Allowance** | Each player's draft may not exceed a BST Limit | All Types |
 | **Babysitting** | At least one of your favorites must be a sub-300 BST Pokemon | All Types |
 | **Bougie** | Every player must draft a roguestone evolution first | All Types |
