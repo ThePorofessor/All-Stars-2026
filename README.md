@@ -98,18 +98,18 @@ In the case of both players ending on the same segment, there are a few tiebreak
 
 | Name | Overall Rank | How To Watch |
 |:---:|---|---|
-| <p align="center">ZogaOak</p> | 1 | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> |
-| <p align="center">QP_Marcel</p> | 2 | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> |
-| <p align="center">Mason_smw</p> | 3 | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> |
-| <p align="center">UceyChimchar</p> | 4 | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> |
-| <p align="center">Reilnur</p> | 5 | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> |
-| <p align="center">Porofessor</p> | 6 | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> |
-| <p align="center">iAmSlammer</p> | 7 | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> |
-| <p align="center">AitchKay</p> | 8 | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> |
-| <p align="center">Yukisaka</p> | 9 | <p align="center">[Twitch](https://www.twitch.tv/yukisaka0)</p> |
-| <p align="center">AmazingSpam</p> | 10 | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> |
-| <p align="center">Community Vote (1st place)</p> | 11 | <p align="center">[Twitch]</p> |
-| <p align="center">Community Vote (2nd place)</p> | 12 | <p align="center">[Twitch]</p> |
+| <p align="center">ZogaOak</p> | <p align="center"> 1 </p> | <p align="center">[Twitch](https://www.twitch.tv/zogaoak)</p> |
+| <p align="center">QP_Marcel</p> | <p align="center"> 2 Seeds </p> | <p align="center">[Twitch](https://www.twitch.tv/qp_marcel)</p> |
+| <p align="center">Mason_smw</p> | <p align="center"> 3 </p> | <p align="center">[Twitch](https://www.twitch.tv/mason_smw)</p> |
+| <p align="center">UceyChimchar</p> | <p align="center"> 4 </p> | <p align="center">[Twitch](https://www.twitch.tv/uceychimchar)</p> |
+| <p align="center">Reilnur</p> | <p align="center"> 5 </p> | <p align="center">[Twitch](https://www.twitch.tv/reilnur)</p> |
+| <p align="center">Porofessor</p> | <p align="center"> 6 </p> | <p align="center">[Twitch](https://www.twitch.tv/theporofessor)</p> |
+| <p align="center">iAmSlammer</p> | <p align="center"> 7 </p> | <p align="center">[Twitch](https://www.twitch.tv/iamslammer)</p> |
+| <p align="center">AitchKay</p> | <p align="center"> 8 </p> | <p align="center">[Twitch](https://www.twitch.tv/aitchkay720)</p> |
+| <p align="center">Yukisaka</p> | <p align="center"> 9 </p> | <p align="center">[Twitch](https://www.twitch.tv/yukisaka0)</p> |
+| <p align="center">AmazingSpam</p> | <p align="center"> 10 </p> | <p align="center">[Twitch](https://www.twitch.tv/amazingspam)</p> |
+| <p align="center">Community Vote (1st place)</p> | <p align="center"> 11 </p> | <p align="center">[Twitch]</p> |
+| <p align="center">Community Vote (2nd place)</p> | <p align="center"> 12 </p> | <p align="center">[Twitch]</p> |
 
 ---
 
